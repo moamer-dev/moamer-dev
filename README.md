@@ -1,13 +1,17 @@
 ### Hi there 👋
+### I am an OpenSource Profile
 
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/)
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 ```javascript
 const Mohamed_Amer = {
-  current_position : Scientific_Software_Engineer/Ontology_Engineer,
+  current_position : "Scientific_Software_Engineer/Ontology_Engineer",
   area_of_interest: [Semantic_Web_Technologies, Linked_Open_Data, ML],
   code: [Javascript, HTML, CSS, PHP, Python],
   tools: [React, SPARQL, OWL, Protege, GraphDB, Jena Fuseki, Docker],
   Ask_me_about:[Semantics, Ontologies, Linked Data, Web Development],
-  Looking_forward : collaborating on PhD research Groups in the intersection of Semantic Technologies with AI,
+  Looking_forward : "collaborating on PhD research Groups in the intersection of Semantic Technologies with AI",
   Fun_Fact: {
                         Bachelor: "Tourist Guidance",
                         Master: "Oriental Studies",
@@ -21,11 +25,6 @@ const Mohamed_Amer = {
       }
 }
 ```
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-- 🔭 I am working as a Scientific Software Engineer/Ontology Engineer.
-- 🌱 Interested in Semantic Web Technologies and Linked Open Data.
-- 👯 I’m looking to collaborate on PhD research Groups in the intersection of Semantic Technologies with AI.
-- 💬 Ask me about Semantics, Ontologies, Linked Data, and Web Development.
-- 📫 How to reach me: mohamed.amer@tib.eu
-- ⚡ Fun fact: I have a Bachelor in Tourist Guidance, Master in Oriental Studies, Advanced Master in Digital Humanities, and Working as a Software Engineer. (Multidisciple Person and Cosmopolitan Character).
-- 🌱 Interested in Doing my PhD in Semantic Technologies and ML.
+
