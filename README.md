@@ -2,22 +2,23 @@
 
 ```javascript
 const Mohamed_Amer = {
-  current_position : Scientific Software Engineer/Ontology Engineer,
-  area_of_interest: [emantic Web Technologies,  Linked Open Data, ML],
+  current_position : Scientific_Software_Engineer/Ontology_Engineer,
+  area_of_interest: [Semantic_Web_Technologies, Linked_Open_Data, ML],
   code: [Javascript, HTML, CSS, PHP, Python],
   tools: [React, SPARQL, OWL, Protege, GraphDB, Jena Fuseki, Docker],
   Ask_me_about:[Semantics, Ontologies, Linked Data, Web Development],
-  Looking_forward : collaborating on PhD research Groups in the intersection of Semantic Technologies with AI.
-  if (var PhD_in_Semantic_Technologies_and_ML){
-      notify_me = true;
-      }
+  Looking_forward : collaborating on PhD research Groups in the intersection of Semantic Technologies with AI,
   Fun_Fact: {
                         Bachelor: "Tourist Guidance",
                         Master: "Oriental Studies",
-                        Advanced Master: "Digital Humanities"
+                        Advanced_Master: "Digital Humanities",
                         Position: "Scientific Software Engineer"
                       },
- challenge: "I am always find my ease in the interdisciplinarity"
+ challenge: "I am always find my ease in the interdisciplinarity",
+ 
+  if (var PhD_in_Semantic_Technologies_and_ML){
+      notify_me = true;
+      }
 }
 ```
 
